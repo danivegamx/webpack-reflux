@@ -1,5 +1,5 @@
 {
-  "name": "reflux-app",
+  "name": "webpack-reflux",
   "version": "1.0.0",
   "description": "Este es un ejemplo de la arquitectura [Reflux](https://github.com/spoike/refluxjs), inspirada en [Flux](https://facebook.github.io/flux/).",
   "main": "app/index.js",
